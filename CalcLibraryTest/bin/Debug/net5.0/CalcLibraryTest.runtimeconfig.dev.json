@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\smitha\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\smitha\\.nuget\\packages"
+    ]
+  }
+}
